@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class prac{
+class LoopSum{
     public static void main(String[] args){
 
         Scanner startScanner = new Scanner(System.in);
